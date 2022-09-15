@@ -22,21 +22,13 @@ To carry out this search the full Run-2 dataset was used, which took 4 years to 
 
 A full copy of my thesis can be found in [CERN's document server](https://cds.cern.ch/record/2812193?ln=en). 
 
-<!-- ![](/assets/images/limits-graviton-5-TeV.png){width=45%}
-![](/assets/images/limits-scalar-5-TeV.png){width=45%} -->
-<!-- <img src="/assets/images/limits-graviton-5-TeV.png" alt="drawing" width="300">
-<img src="/assets/images/limits-scalar-5-TeV.png" alt="drawing" width="300"> -->
 
 <img src="/assets/images/kappa_lambda_unblinded.png" alt="drawing" width="600">
 
-<!-- ![kappa_lambda](/assets/images/kappa_lambda_unblinded.png) -->
+## Masters Thesis 
 
+I jumped into the deep learning training during my masters' at UCL, where I got the chance to work on a project using data from the ATLAS detector. The aim of this project was to develop a classifier that could distinguish between W bosons (signal) and QCD (backgrounds). An intuitive way to reconstruct these events is to use the energy deposited in the calorimeters and then turn this into an image. An example of what the QCD image (left) and the W image (right) after pre-processing look like is shown below.
 
+<img src="/assets/images/jetimages.png" alt="drawing">
 
-<!-- My PhD thesis is available on the [UCL Discovery website](https://discovery.ucl.ac.uk/id/eprint/10093101/1/10093101.pdf). The thesis is also available on [arXiv](https://arxiv.org/abs/2007.10086).
-\ -->
-
-
-
-
-<!--  I am passionate about the use of data science in particle physics, and I am always looking for new opportunities to apply my skills to new problems. -->
+As images were used a Convolutional Neural Network (CNN) was used to.
