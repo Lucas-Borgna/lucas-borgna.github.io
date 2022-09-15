@@ -31,4 +31,10 @@ I jumped into the deep learning training during my masters' at UCL, where I got 
 
 <img src="/assets/images/jetimages.png" alt="drawing">
 
-As images were used a Convolutional Neural Network (CNN) was used to.
+As images were used a set of different Convolutional Neural Networks (CNN) were tested. The classification performance of the CNNs was compared to a more traditional cut-based method. Below are the Receiver Operating Characteristic (ROC) curves for architectures. In general the CNNs outperform the cut-based method, with the best performing network being the VGG19 architecture with Batch Normalization and Parametric RELU activation functions.
+
+![](/assets/images/ROC.png)
+
+The above examples were obtained by using a **fully-supervised** approach. This means that for each image we know the true label (signal or background). There are however some cases in particle physics were we don't have the true label, but what we do have is a relative fraction of signal to background events in a sample. This type of problem is coined a **weakly-supervised** approach, which I implemented using the image based approach. The ROC curve below shows the performance of the CNNs when trained with a weakly-suppervised classifier with varying purities of signal to background in the samples. 
+
+![](/assets/images/Weak1.png)
