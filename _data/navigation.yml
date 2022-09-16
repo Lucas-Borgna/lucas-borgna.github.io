@@ -1,9 +1,11 @@
 # main links
 main:
-  - title: "Experiences"
-    url: "/experience/"
+  - title: "Research"
+    url: "/research/"
   - title: "Publications"
     url: "/publications/"
+  - title: "Past Experiences"
+    url: "/pastexperiences/"
   - title: "CV"
     url: "/cv/"
   # - title: "Projects"
