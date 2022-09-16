@@ -16,7 +16,7 @@ For my thesis I decided to focus on the search for events where a pair of Higgs 
 To carry out this search the full Run-2 dataset was used, which took 4 years to collect. The dataset is then heavily processed by using triggers to select out events with the fingerprints that we are interested in. The events that remain are then reconstructed to see if they fit the structure of the dihiggs decaying into four bottom quarks. Part of the reconstruction process uses a BDT to correctly pair which bottom quarks came from which higgs particle. The background is modelled by using a neural network that learns from data outside of the signal region of interest. Ultimately, the search is carried out by using a statistical test to see if the observed number of events is consistent with the expected number of events. The figure below shows the results of the statistical analysis as a function of $\kappa_{\lambda}$, which is a parameter of the standard model. The search enables us to exclude values of $\kappa_{\lambda}$ that are outside of -6 and +15. 
 
 A full copy of my thesis can be found in [CERN's document server](https://cds.cern.ch/record/2812193?ln=en). 
-
+Some of these details can also be found in [my talk at the Institue of Physics (IOP)](https://indico.cern.ch/event/1013634/contributions/4313050/)
 
 <img src="/assets/images/kappa_lambda_unblinded.png" alt="drawing" width="600">
 
