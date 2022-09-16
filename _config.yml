@@ -106,7 +106,7 @@ repository               : "lucas-borgna/lucas-borgna.github.io" # GitHub userna
 author:
   name             : "Lucas Santiago Borgna"
   avatar           : "/assets/images/personal.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "I am a particle physicist, interested in using data science to tackle real world problems."
   location         : "London, UK"
   email            :
   links:

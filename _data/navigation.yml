@@ -3,11 +3,11 @@ main:
   - title: "Experiences"
     url: "/experience/"
   - title: "Publications"
-    url: "/publication/"
+    url: "/publications/"
   - title: "CV"
     url: "/cv/"
-  - title: "Projects"
-    url: "/project/"
+  # - title: "Projects"
+  #   url: "/project/"
   
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
