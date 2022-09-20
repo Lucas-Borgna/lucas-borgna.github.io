@@ -6,6 +6,8 @@ main:
     url: "/publications/"
   - title: "Past Experiences"
     url: "/pastexperiences/"
+  - title: "Projects"
+    url: "/projects/"
   - title: "CV"
     url: "/cv/"
   # - title: "Projects"
