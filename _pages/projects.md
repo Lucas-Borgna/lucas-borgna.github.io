@@ -19,7 +19,7 @@ The first two steps build the environment and creates the project so that the fi
 
 ## Semi-supervised Topic Modelling
 
-As part of my first year PhD training we undertook a group-project from an industry partner faculty AI (then called ASI). The scope of the project was to develop a topic modelling app that can be guided by the user giving some keywords into the topic, hence the **semi**-supervised approach. To do this we utilized the `SeededLDA` algorithm, which is a modified version of the `LDA` algorithm for topic discovery based around the user-specified keywords. Below is an example of how this can affect the results. The [20 newsgroups dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) was used as an input for this algorithm. The table below shows what the regular `LDA` gives for the two topic (space and medicine). 
+As part of my first year PhD training we undertook a group-project from an industry partner Faculty AI (then called ASI). The scope of the project was to develop a topic modelling app that can be guided by the user giving some keywords into the topic, hence the **semi**-supervised approach. To do this we utilized the `SeededLDA` algorithm, which is a modified version of the `LDA` algorithm for topic discovery based around the user-specified keywords. Below is an example of how this can affect the results. The [20 newsgroups dataset](https://scikit-learn.org/0.19/datasets/twenty_newsgroups.html) was used as an input for this algorithm. The table below shows what the regular `LDA` gives for the two topic (space and medicine). 
 
 
 | **Topic Number**       | **Unsupervised Topic Results**                                                                      |
