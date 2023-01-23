@@ -6,7 +6,7 @@ title: "Publications"
 Listed below are publications that I have contributed to. 
 
 
-## (expected) Search for non-resonant pair production of Higgs bosons in the $b\bar{b}b\bar{b}$ final state using 139 fb$^{-1}$ of $\sqrt{s}$ = 13 TeV $p$-$p$ collision data with the ATLAS detector. 
+## [Search for nonresonant pair production of Higgs bosons in the $b\bar{b}b\bar{b}$ final state in $p$$p$ collisions at $\sqrt{s}$ = 13 TeV $p$-$p$ with the ATLAS detector.](https://arxiv.org/abs/2301.03212)
 
 ## [Search for resonant pair production of Higgs Bosons in the $b\bar{b}b\bar{b}$ final state using 139 fb$^{-1}$ of $\sqrt{s}$ = 13 TeV $p$-$p$ collision data with the ATLAS detector.](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.105.092002)
 
